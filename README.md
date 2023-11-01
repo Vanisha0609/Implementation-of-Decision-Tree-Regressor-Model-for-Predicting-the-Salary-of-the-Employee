@@ -75,7 +75,6 @@ dt.predict([[5,6]])
 
 ![image](https://github.com/Vanisha0609/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119104009/7625904c-44e8-427b-ac73-e53567ea5ea7)
 
-
 5. MSE value:
 
 ![image](https://github.com/Vanisha0609/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119104009/7cb439b6-5d83-4b54-b3ce-897142f237bd)
